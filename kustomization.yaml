@@ -3,4 +3,5 @@ bases:
 - components/go-component/base
 - components/go/base
 - components/java-quarkus/base
+- components/nodejs/base
 kind: Kustomization
